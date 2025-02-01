@@ -5,7 +5,7 @@
 You'll need to connect the SDA and SCL pins of the sensor to the corresponding SDA and SCL pins on your microcontroller.<BR>
 Bus Address is 0x44 - default (or 0x45)<BR<>
 <br><br>
-+ ![logo](/images/shtx-full.jpg?raw=true)
++ ![logo](/images/sthx-full.jpg?raw=true)
 <br><br>
 More info :<BR>
 
