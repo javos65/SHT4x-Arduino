@@ -6,7 +6,7 @@ You'll need to connect the SDA and SCL pins of the sensor to the corresponding S
 Connect 3.3V and Gnd to power lines<BR>
 I2C Bus Address is 0x44 - default (or 0x45)<BR<>
 <br><br>
-+ ![logo](/images/sthx-full.jpg?raw=true)
++ ![Board](/images/sth4x-full.jpg?raw=true)
 <br><br>
 More info :<BR>
 
