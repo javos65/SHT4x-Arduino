@@ -3,8 +3,8 @@
  No Library, No structures, just one straight forward code example to interface.<BR><BR>
  # Pinning
 You'll need to connect the SDA and SCL pins of the sensor to the corresponding SDA and SCL pins on your microcontroller.<BR>
-Connect 3.3V and Gnd to power lines<BR>
-I2C Bus Address is 0x44 - default (or 0x45)<BR<>
+Connect 3.3V and Gnd to power lines, see example of Eval board<BR>
+I2C Bus Address is 0x44 - default (or 0x45)<BR>
 <br><br>
 + ![Board](/images/sht4x-full.jpg?raw=true)
 <br><br>
