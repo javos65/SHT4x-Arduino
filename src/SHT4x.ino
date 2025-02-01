@@ -3,6 +3,9 @@
    NO LIBRARIES, SIMPLE AND DIRECT
   These sensors use I2C to communicate, 2 pins are required to  
   interface
+
+  2025- Jay Fox
+  https://github.com/javos65/SHT4x-Arduino
  ****************************************************/
 
 #include <Wire.h>
